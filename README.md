@@ -54,19 +54,15 @@ A Real-Time Clock (RTC) is a crucial component in many Arduino projects, providi
 2. **Data Logging:** Log events or sensor readings with timestamps for analysis.
 3. **Automation Systems:** Control devices based on scheduled time intervals or specific times of day.
 
-## Support
-
-For any issues or further assistance, please contact us:
-
-- 🌐 [Projects Learner](https://projectslearner.com)
-- 📧 Email: projectslearner@gmail.com
-- 📸 Instagram
-- 📘 Facebook
-- ▶️ YouTube
-- 📘 LinkedIn
-
-Made for you with ❣️ from ProjectsLearner.
-
 ---
 
-By following this guide, you can successfully integrate an RTC module with your Arduino projects, enabling accurate timekeeping functionality for various applications.
+### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
+
+🌐 [projectslearner.com](https://www.projectslearner.com)  
+📧 [projectslearner@gmail.com](mailto:projectslearner@gmail.com)  
+📸 [Instagram](https://www.instagram.com/projectslearner/)  
+📘 [Facebook](https://www.facebook.com/projectslearner)  
+▶️ [YouTube](https://www.youtube.com/@ProjectsLearner)  
+📘 [LinkedIn](https://www.linkedin.com/in/projectslearner)  
+
+## Made for you with ❣️ from ProjectsLearner
